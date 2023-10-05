@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @himanshu475
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning dsa
-- 💞️ I’m looking to collaborate on some app development projects and dsa projects
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning react js
+- 💞️ I’m looking to collaborate on some web development projects 
 - 
 
 <!---
