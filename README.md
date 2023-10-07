@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himanshu475
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning javascript and react js
 - 💞️ I’m looking to collaborate on some web development projects 
 - 
 
