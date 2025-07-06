@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Himanshu (@himanshu475)
+## 👋 Hi there, I’m Himanshu 
 
 🎓 I'm a Computer Science student with a strong passion for **Web Development** and growing interest in **Artificial Intelligence & Machine Learning**.
 
